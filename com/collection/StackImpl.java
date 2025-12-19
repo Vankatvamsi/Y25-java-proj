@@ -10,7 +10,7 @@ public class StackImpl
 		s1.push(10);
 		s1.push(20);
 		s1.push(30);
-		s1.push(10);
+		s1.push(60);
 		s1.push(40); 
 		System.out.println("Elements are: "+s1);
 		s1.pop();

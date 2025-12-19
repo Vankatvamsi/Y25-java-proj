@@ -16,7 +16,7 @@ public class HashMapImpl
 		System.out.println("get keys from map object: "+hm.keySet());
 		System.out.println("get values from map object: "+hm.values());
 		//Retrieve elements from map objects
-		System.out.println("HAshMap values are: ");
+		System.out.println("HashMap values are: ");
 		for(Map.Entry<Integer, Integer> m:hm.entrySet())
 		{
 			System.out.println(m.getKey()+"\t"+m.getValue());
