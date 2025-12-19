@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 //Lab Program: Sum of Digits of a Number (Using while loop)
 
 import java.util.Scanner;

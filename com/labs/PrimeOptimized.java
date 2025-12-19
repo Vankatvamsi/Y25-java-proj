@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 
 //Lab Program: Prime Number Check (Optimized)
 //Optimization: Check divisors only till square root of the number.

@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 import java.util.Scanner;
 public class SimpleCaluculator {
     public static void main(String[] args)

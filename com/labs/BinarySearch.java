@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 
 //Lab: Binary Search Implementation
 

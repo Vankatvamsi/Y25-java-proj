@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 //Lab 9: Generate Prime Numbers up to N
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 //Lab Program: Check Palindrome Number
 //A number is palindrome if the reversed number is same as the original.
 

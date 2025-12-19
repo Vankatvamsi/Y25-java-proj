@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 //Lab 10: Reverse a Number and Check Palindrome (Using Nested Loop)
 
 import java.util.Scanner;

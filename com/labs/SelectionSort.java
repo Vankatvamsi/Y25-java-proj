@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 //Lab: Sort Array Using Selection Sort (Very Basic)
 
 import java.util.Scanner;

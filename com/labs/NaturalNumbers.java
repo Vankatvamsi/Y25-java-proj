@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 
 //Lab Program: Display First N Natural Numbers and Their Sum
 

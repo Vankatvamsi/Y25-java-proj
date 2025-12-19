@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 
 //Lab Program: Print All Factors of a Number
 

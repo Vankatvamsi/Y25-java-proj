@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 
 //Lab 15: Upper and Lower Triangular Matrix Elements
 

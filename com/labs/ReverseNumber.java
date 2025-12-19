@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 //Lab Program: Reverse a Three-Digit Number (Using while loop)
 
 import java.util.Scanner;

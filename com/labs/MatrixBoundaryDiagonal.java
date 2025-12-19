@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 //Lab 16: Matrix Boundary Sum and Diagonal Sum Combined
 
 import java.util.Scanner;

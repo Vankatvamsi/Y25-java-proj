@@ -1,4 +1,4 @@
-package labs;
+package com.labs;
 //Lab 13: Sort Array Using Bubble Sort and Count Swaps
 
 import java.util.Scanner;
